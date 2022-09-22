@@ -1,3 +1,9 @@
+# Description
+
+This project is based on a modal made without Bootstrap, simply with Angular. 
+To this modal I have added fade animations when opening and closing it.
+I have opted for a Neumorphism design for the project.
+
 # AngularModal
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.

@@ -4,7 +4,8 @@ This project is based on a modal made without Bootstrap, simply with Angular.
 To this modal I have added fade animations when opening and closing it.
 I have opted for a Neumorphism design for the project.
 
-![](https://github.com/oscarcaampos/angular-modal/tree/master/src/assets/modal.gif)
+![](https://github.com/oscarcaampos/angular-modal/blob/master/src/assets/modal.gif)
+
 
 # AngularModal
 

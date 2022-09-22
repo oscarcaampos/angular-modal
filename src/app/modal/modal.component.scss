@@ -1,6 +1,4 @@
-button {
-  cursor: pointer;
-
+.modal{
   border: none;
   -webkit-border-radius: 50px;
   border-radius: 50px;
@@ -8,10 +6,6 @@ button {
   -webkit-box-shadow: 12px 12px 24px #bebebe, -12px -12px 24px #ffffff;
   box-shadow: 12px 12px 24px #bebebe, -12px -12px 24px #ffffff;
 
-  font-size: 1.5em;
-  text-transform: uppercase;
-  letter-spacing: 5px;
-  font-weight: 600;
   color: #363636;
   padding: 50px;
 
@@ -21,4 +15,26 @@ button {
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+}
+
+.modal_header{
+  h3{
+    display: inline;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 600;
+  }
+  button{
+    display: inline;
+    float: right;
+    padding: 3px ;
+    font-size: 1.05em;
+    font-weight: 900;
+  }
+
+}
+
+.modal_body{
+  margin-top: 20px;
 }

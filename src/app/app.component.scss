@@ -22,3 +22,17 @@ button {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
+
+@media (max-width: 700px) {
+  button{
+    width: 70%;
+    font-size: 1.4em;
+  }
+}
+
+@media (max-width: 475px) {
+  button{
+    width: 80%;
+    font-size: 1.3em;
+  }
+}
